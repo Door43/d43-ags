@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ags:home|Door43 (ags)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ags|d43-ags repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ags/archive/master.zip|d43-ags.zip]]
+
+**Recent Changes**
+{{changes>ns = ags}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ags|Ethnologue data]]
+
